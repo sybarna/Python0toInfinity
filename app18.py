@@ -9,5 +9,5 @@
 
 # print(fact(5))
 
-for n in range(5, 0, 2):
+for n in range(5, ):
     print(n)

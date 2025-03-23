@@ -28,5 +28,5 @@
 
 # phone number validation / formatation
 
-phone_number = input("enter your phone number")
-print(phone_number[3:10])
+# phone_number = input("enter your phone number")
+# print(phone_number[3:10])
