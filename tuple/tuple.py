@@ -1,3 +1,5 @@
-tupple = ("subarna", "is", "my", "name", ".")
-tupple[0] = 5
-print(tupple)
+students_marks = [("Alice", 85), ("Bob", 92), ("Charlie", 78), ("Diana", 88)]
+
+
+for x, k in students_marks:
+    print(f"{x} : {k}")
