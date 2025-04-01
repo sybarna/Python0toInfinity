@@ -9,4 +9,4 @@ print(type(greetme))
 
 
 time_to_do_array = [1, 2, 3, 231, 21, 32, 442, 23, 44]
-print(sorted(time_to_do_array))
+print(sortegd(time_to_do_array))
